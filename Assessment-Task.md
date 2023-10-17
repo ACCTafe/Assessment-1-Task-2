@@ -23,7 +23,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Each version of the project is called a branch.
         C. A commit containing one small change to a project is not practical.
 
-        Answer:
+        Answer:3
 
 2. Which one of these statements about branches is true?
 
